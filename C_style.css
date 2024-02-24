@@ -1,0 +1,16 @@
+.main {
+    padding: 10px 0 10px 0;
+    display: flex;
+    justify-content: space-evenly;
+    background: #FFE4E1;
+    border-radius: 10px;
+}
+
+.nav {
+    width: 100px;
+    text-align: center;
+}
+
+a {
+    text-decoration: none;
+}
